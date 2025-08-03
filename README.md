@@ -14,5 +14,6 @@ E_gap = 1.1 eV: Bandgap energy of Silicon.\
 k_B = 8.617e-5 eV/K: Boltzmann constant.\
 T = 6000 K: Temperature of the blackbody source (e.g., the Sun).
 
-Calculate Dimensionless Quantity x_gap: $$x_{gap}= \frac{E_{gap}}{k_BT}$$. This represents the normalized energy threshold for photon absorption.\
+Calculate Dimensionless Quantity x_gap: $$x_{gap}= \frac{E_{gap}}{k_BT}$$. This represents the normalized energy threshold for photon absorption.
 
+$$x_{gap}$$ is a specific threshold value of the variable $$x$$ that corresponds to the bandgap energy of the material. It marks the minimum normalized energy a photon must have to be absorbed by the material and contribute to electricity generation.
